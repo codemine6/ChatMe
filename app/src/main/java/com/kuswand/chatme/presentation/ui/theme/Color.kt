@@ -1,4 +1,4 @@
-package com.kuswand.chatme.ui.theme
+package com.kuswand.chatme.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
